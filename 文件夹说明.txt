@@ -1,0 +1,4 @@
+1. html：主页内容
+2. images：站点的所有图像
+3.styles：站点所需的样式表，比如文本颜色和背景颜色
+4.scripts:站点交互功能，JavaScript 代码
